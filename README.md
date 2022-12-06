@@ -1,11 +1,12 @@
 # LGM Task - 2
 ## Creating a Web Application with API call using React App 
 
-##Screenshort
-
-![2 (2)](https://user-images.githubusercontent.com/90950477/205883106-0c972dc3-248a-4d9d-90c9-f754f88390fd.png)
+## Screenshort:
 
 ![2 (1)](https://user-images.githubusercontent.com/90950477/205883102-7c9dc2ec-7dd8-4316-83cb-d6761b3ec387.png)
+
+
+![2 (2)](https://user-images.githubusercontent.com/90950477/205883106-0c972dc3-248a-4d9d-90c9-f754f88390fd.png)
 
 
 # Getting Started with Create React App
