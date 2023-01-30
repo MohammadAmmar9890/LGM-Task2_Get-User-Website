@@ -1,5 +1,4 @@
-# LGM Task - 2
-## Creating a Web Application with API call using React App 
+# Web Application with API call using React App 
 
 ## Screenshort:
 
